@@ -1,0 +1,2 @@
+# PIC18F46K20_I2C_SLAVE_PMBUS
+PMBUS read command
